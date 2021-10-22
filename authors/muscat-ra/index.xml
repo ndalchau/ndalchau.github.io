@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Muscat RA | Neil Dalchau</title>
+    <link>/authors/muscat-ra/</link>
+      <atom:link href="/authors/muscat-ra/index.xml" rel="self" type="application/rss+xml" />
+    <description>Muscat RA</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 24 Jul 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hud036e253d667841def3d4af41fe46192_1097_512x512_fill_lanczos_center_2.png</url>
+      <title>Muscat RA</title>
+      <link>/authors/muscat-ra/</link>
+    </image>
+    
+    <item>
+      <title>A spatially localized architecture for fast and modular DNA computing</title>
+      <link>/publication/2017-nat-nano-chatterjee/</link>
+      <pubDate>Mon, 24 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/2017-nat-nano-chatterjee/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

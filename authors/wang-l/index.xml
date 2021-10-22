@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wang L | Neil Dalchau</title>
+    <link>/authors/wang-l/</link>
+      <atom:link href="/authors/wang-l/index.xml" rel="self" type="application/rss+xml" />
+    <description>Wang L</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 13 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hud036e253d667841def3d4af41fe46192_1097_512x512_fill_lanczos_center_2.png</url>
+      <title>Wang L</title>
+      <link>/authors/wang-l/</link>
+    </image>
+    
+    <item>
+      <title>A systematic approach to inserting split inteins for Boolean logic gate engineering and basal activity reduction</title>
+      <link>/publication/2021-nat-comms-ho/</link>
+      <pubDate>Tue, 13 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/2021-nat-comms-ho/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Meeds E | Neil Dalchau</title>
+    <link>/authors/meeds-e/</link>
+      <atom:link href="/authors/meeds-e/index.xml" rel="self" type="application/rss+xml" />
+    <description>Meeds E</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 09 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hud036e253d667841def3d4af41fe46192_1097_512x512_fill_lanczos_center_2.png</url>
+      <title>Meeds E</title>
+      <link>/authors/meeds-e/</link>
+    </image>
+    
+    <item>
+      <title>Efficient Amortised Bayesian Inference for Hierarchical and Nonlinear Dynamical Systems</title>
+      <link>/publication/2019-icml-roeder/</link>
+      <pubDate>Sun, 09 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019-icml-roeder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modelling ordinary differential equations using a variational auto encoder</title>
+      <link>/publication/2019-patent-roeder/</link>
+      <pubDate>Wed, 23 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019-patent-roeder/</guid>
+      <description>&lt;h3 id=&#34;patent-details&#34;&gt;Patent Details&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Patent number&lt;/strong&gt;: 11030275&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Type&lt;/strong&gt;: Grant&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Filed&lt;/strong&gt;: Jan 23, 2019&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Date of Patent&lt;/strong&gt;: Jun 8, 2021&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Patent Publication Number&lt;/strong&gt;: 20200233920&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Assignee&lt;/strong&gt;: Microsoft Technology Licensing, LLC (Redmond, WA)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Inventors&lt;/strong&gt;: Edward Meeds (Cambridge), Geoffrey Roeder (Princeton, NJ), Neil Dalchau (Cambridge)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Primary Examiner&lt;/strong&gt;: Chuong D Ngo&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Application Number&lt;/strong&gt;: 16/255,778&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

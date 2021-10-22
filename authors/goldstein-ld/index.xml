@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Goldstein LD | Neil Dalchau</title>
+    <link>/authors/goldstein-ld/</link>
+      <atom:link href="/authors/goldstein-ld/index.xml" rel="self" type="application/rss+xml" />
+    <description>Goldstein LD</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 13 Oct 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hud036e253d667841def3d4af41fe46192_1097_512x512_fill_lanczos_center_2.png</url>
+      <title>Goldstein LD</title>
+      <link>/authors/goldstein-ld/</link>
+    </image>
+    
+    <item>
+      <title>A peptide filtering relation quantifies MHC class I peptide optimization</title>
+      <link>/publication/2011-plos-cb-dalchau/</link>
+      <pubDate>Thu, 13 Oct 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/2011-plos-cb-dalchau/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dynamical Systems | Neil Dalchau</title>
+    <link>/categories/dynamical-systems/</link>
+      <atom:link href="/categories/dynamical-systems/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dynamical Systems</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 11 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hud036e253d667841def3d4af41fe46192_1097_512x512_fill_lanczos_center_2.png</url>
+      <title>Dynamical Systems</title>
+      <link>/categories/dynamical-systems/</link>
+    </image>
+    
+    <item>
+      <title>Parameter Inference with Bifurcation Diagrams</title>
+      <link>/publication/2021-neurips-szep/</link>
+      <pubDate>Fri, 11 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/2021-neurips-szep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Turing patterning in stratified domains</title>
+      <link>/publication/2020-bmb-krause/</link>
+      <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020-bmb-krause/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interpretation of morphogen gradients by a synthetic bistable circuit</title>
+      <link>/publication/2020-nat-comms-grant/</link>
+      <pubDate>Tue, 11 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020-nat-comms-grant/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fast enumeration of non-isomorphic chemical reaction networks</title>
+      <link>/publication/2019-cmsb-spaccasassi/</link>
+      <pubDate>Tue, 17 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019-cmsb-spaccasassi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scalable dynamic characterization of synthetic gene circuits</title>
+      <link>/publication/2019-biorxiv-dalchau/</link>
+      <pubDate>Thu, 15 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019-biorxiv-dalchau/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Amortised Bayesian Inference for Hierarchical and Nonlinear Dynamical Systems</title>
+      <link>/publication/2019-icml-roeder/</link>
+      <pubDate>Sun, 09 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019-icml-roeder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modelling ordinary differential equations using a variational auto encoder</title>
+      <link>/publication/2019-patent-roeder/</link>
+      <pubDate>Wed, 23 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019-patent-roeder/</guid>
+      <description>&lt;h3 id=&#34;patent-details&#34;&gt;Patent Details&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Patent number&lt;/strong&gt;: 11030275&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Type&lt;/strong&gt;: Grant&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Filed&lt;/strong&gt;: Jan 23, 2019&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Date of Patent&lt;/strong&gt;: Jun 8, 2021&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Patent Publication Number&lt;/strong&gt;: 20200233920&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Assignee&lt;/strong&gt;: Microsoft Technology Licensing, LLC (Redmond, WA)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Inventors&lt;/strong&gt;: Edward Meeds (Cambridge), Geoffrey Roeder (Princeton, NJ), Neil Dalchau (Cambridge)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Primary Examiner&lt;/strong&gt;: Chuong D Ngo&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Application Number&lt;/strong&gt;: 16/255,778&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Synthesizing and tuning stochastic chemical reaction networks with specified behaviours</title>
+      <link>/publication/2018-interface-murphy/</link>
+      <pubDate>Wed, 15 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/2018-interface-murphy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A mechanistic model for predicting cell surface presentation of competing peptides by MHC class I molecules</title>
+      <link>/publication/2018-frontiers-boulanger/</link>
+      <pubDate>Thu, 05 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/2018-frontiers-boulanger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computing with biological switches and clocks</title>
+      <link>/publication/2018-nat-comp-dalchau/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/2018-nat-comp-dalchau/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient switches in biology and computer science</title>
+      <link>/publication/2017-plos-cb-cardelli/</link>
+      <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/2017-plos-cb-cardelli/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Noise reduction in complex biological switches</title>
+      <link>/publication/2016-sci-rep-cardelli/</link>
+      <pubDate>Mon, 08 Feb 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/2016-sci-rep-cardelli/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synthesizing and tuning chemical reaction networks with specified behaviours</title>
+      <link>/publication/2015-dna-dalchau/</link>
+      <pubDate>Tue, 21 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/2015-dna-dalchau/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What makes a biological clock efficient?</title>
+      <link>/publication/2014-cardelli-fest-csikasz-nagy/</link>
+      <pubDate>Mon, 08 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/2014-cardelli-fest-csikasz-nagy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Understanding and predicting biological networks using linear system identification</title>
+      <link>/publication/2014-book-cariganano/</link>
+      <pubDate>Fri, 04 Jul 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/2014-book-cariganano/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Programmable chemical controllers made from DNA</title>
+      <link>/publication/2013-nat-nano-chen/</link>
+      <pubDate>Mon, 23 Sep 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/2013-nat-nano-chen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chemical Reaction Networks</title>
+      <link>/project/crn/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/project/crn/</guid>
+      <description>&lt;p&gt;Chemical Reaction Networks Engine (CRN-Engine) is an open source repository that enables programming and analysis of (bio)chemical systems.&lt;/p&gt;
+&lt;p&gt;The implementation for several domain-specific programming languages (DSLs) are included, and have been published previously in web tools and the scientific literature:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://classicdsd.azurewebsites.net&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Visual DSD&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://classicgec.azurewebsites.net&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Visual GEC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://visualcrn.azurewebsites.net&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Visual CRN&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The languages compile to &lt;em&gt;chemical reaction networks&lt;/em&gt;, which is a mathematical object that defines parameterised chemical systems. Several analysis methods are provided, which can be applied to all CRN-compatible languages:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Stochastic simulation (Gillespie&amp;rsquo;s Direct Method)&lt;/li&gt;
+&lt;li&gt;Moment closure techniques (Approximate simulation of stochastic dynamics)&lt;/li&gt;
+&lt;li&gt;Integration of the chemical master equation&lt;/li&gt;
+&lt;li&gt;Satisfiability analysis for stable systems, using the 
+&lt;a href=&#34;https://github.com/Z3Prover/z3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Z3 theorem prover&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Parameter inference from observation data, using Markov chain Monte Carlo (MCMC).&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Understanding biological timing using mechanistic and black-box models</title>
+      <link>/publication/2011-new-phyt-dalchau/</link>
+      <pubDate>Fri, 23 Dec 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/2011-new-phyt-dalchau/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

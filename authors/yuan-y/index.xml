@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yuan Y | Neil Dalchau</title>
+    <link>/authors/yuan-y/</link>
+      <atom:link href="/authors/yuan-y/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yuan Y</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 04 Jul 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hud036e253d667841def3d4af41fe46192_1097_512x512_fill_lanczos_center_2.png</url>
+      <title>Yuan Y</title>
+      <link>/authors/yuan-y/</link>
+    </image>
+    
+    <item>
+      <title>Understanding and predicting biological networks using linear system identification</title>
+      <link>/publication/2014-book-cariganano/</link>
+      <pubDate>Fri, 04 Jul 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/2014-book-cariganano/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

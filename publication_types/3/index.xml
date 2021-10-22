@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3 | Neil Dalchau</title>
+    <link>/publication_types/3/</link>
+      <atom:link href="/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
+    <description>3</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 15 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hud036e253d667841def3d4af41fe46192_1097_512x512_fill_lanczos_center_2.png</url>
+      <title>3</title>
+      <link>/publication_types/3/</link>
+    </image>
+    
+    <item>
+      <title>Scalable dynamic characterization of synthetic gene circuits</title>
+      <link>/publication/2019-biorxiv-dalchau/</link>
+      <pubDate>Thu, 15 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019-biorxiv-dalchau/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A theory for how the antigen presentation profile influences the timing of T-cell detection</title>
+      <link>/publication/2018-biorxiv-carignano/</link>
+      <pubDate>Thu, 29 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/2018-biorxiv-carignano/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Beyond activator-inhibitor networks: the generalised Turing mechanism</title>
+      <link>/publication/2018-arxiv-smith/</link>
+      <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/2018-arxiv-smith/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

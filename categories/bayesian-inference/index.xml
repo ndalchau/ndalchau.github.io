@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bayesian Inference | Neil Dalchau</title>
+    <link>/categories/bayesian-inference/</link>
+      <atom:link href="/categories/bayesian-inference/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bayesian Inference</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 15 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hud036e253d667841def3d4af41fe46192_1097_512x512_fill_lanczos_center_2.png</url>
+      <title>Bayesian Inference</title>
+      <link>/categories/bayesian-inference/</link>
+    </image>
+    
+    <item>
+      <title>Scalable dynamic characterization of synthetic gene circuits</title>
+      <link>/publication/2019-biorxiv-dalchau/</link>
+      <pubDate>Thu, 15 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019-biorxiv-dalchau/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Amortised Bayesian Inference for Hierarchical and Nonlinear Dynamical Systems</title>
+      <link>/publication/2019-icml-roeder/</link>
+      <pubDate>Sun, 09 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019-icml-roeder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modelling ordinary differential equations using a variational auto encoder</title>
+      <link>/publication/2019-patent-roeder/</link>
+      <pubDate>Wed, 23 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019-patent-roeder/</guid>
+      <description>&lt;h3 id=&#34;patent-details&#34;&gt;Patent Details&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Patent number&lt;/strong&gt;: 11030275&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Type&lt;/strong&gt;: Grant&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Filed&lt;/strong&gt;: Jan 23, 2019&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Date of Patent&lt;/strong&gt;: Jun 8, 2021&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Patent Publication Number&lt;/strong&gt;: 20200233920&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Assignee&lt;/strong&gt;: Microsoft Technology Licensing, LLC (Redmond, WA)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Inventors&lt;/strong&gt;: Edward Meeds (Cambridge), Geoffrey Roeder (Princeton, NJ), Neil Dalchau (Cambridge)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Primary Examiner&lt;/strong&gt;: Chuong D Ngo&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Application Number&lt;/strong&gt;: 16/255,778&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Variational inference for ODE models</title>
+      <link>/project/vihds/</link>
+      <pubDate>Fri, 30 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>/project/vihds/</guid>
+      <description>&lt;p&gt;We introduce a flexible, scalable Bayesian inference framework for nonlinear dynamical systems characterised by distinct and hierarchical variability at the individual, group, and population levels. Our model class is a generalisation of nonlinear mixed-effects (NLME) dynamical systems, the statistical workhorse for many experimental sciences. We cast parameter inference as stochastic optimisation of an end-to-end differentiable, block-conditional variational autoencoder. We specify the dynamics of the data-generating process as an ordinary differential equation (ODE) such that both the ODE and its solver are fully differentiable. This model class is highly flexible: the ODE right-hand sides can be a mixture of user-prescribed or &amp;ldquo;white-box&amp;rdquo; sub-components and neural network or &amp;ldquo;black-box&amp;rdquo; sub-components. Using stochastic optimisation, our amortised inference algorithm could seamlessly scale up to massive data collection pipelines (common in labs with robotic automation). Finally, our framework supports interpretability with respect to the underlying dynamics, as well as predictive generalisation to unseen combinations of group components (also called &amp;ldquo;zero-shot&amp;rdquo; learning). We empirically validate our method by predicting the dynamic behaviour of bacteria that were genetically engineered to function as biosensors.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

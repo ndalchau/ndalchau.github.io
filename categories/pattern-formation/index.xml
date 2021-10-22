@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pattern Formation | Neil Dalchau</title>
+    <link>/categories/pattern-formation/</link>
+      <atom:link href="/categories/pattern-formation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Pattern Formation</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 15 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hud036e253d667841def3d4af41fe46192_1097_512x512_fill_lanczos_center_2.png</url>
+      <title>Pattern Formation</title>
+      <link>/categories/pattern-formation/</link>
+    </image>
+    
+    <item>
+      <title>Turing patterning in stratified domains</title>
+      <link>/publication/2020-bmb-krause/</link>
+      <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020-bmb-krause/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interpretation of morphogen gradients by a synthetic bistable circuit</title>
+      <link>/publication/2020-nat-comms-grant/</link>
+      <pubDate>Tue, 11 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020-nat-comms-grant/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DNA-based communication in populations of synthetic protocells</title>
+      <link>/publication/2019-nat-nano-joesaar/</link>
+      <pubDate>Wed, 03 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019-nat-nano-joesaar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Beyond activator-inhibitor networks: the generalised Turing mechanism</title>
+      <link>/publication/2018-arxiv-smith/</link>
+      <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/2018-arxiv-smith/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Model reduction enables Turing instability analysis of large reaction–diffusion models</title>
+      <link>/publication/2018-interface-smith/</link>
+      <pubDate>Wed, 14 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/2018-interface-smith/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Orthogonal intercellular signaling for programmed spatial behavior</title>
+      <link>/publication/2016-msb-grant/</link>
+      <pubDate>Tue, 26 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/2016-msb-grant/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computational design of reaction-diffusion patterns using DNA-based chemical reaction networks</title>
+      <link>/publication/2014-dna-dalchau/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/2014-dna-dalchau/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards the rational design of synthetic cells with prescribed population dynamics</title>
+      <link>/publication/2012-interface-dalchau/</link>
+      <pubDate>Fri, 08 Jun 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/2012-interface-dalchau/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

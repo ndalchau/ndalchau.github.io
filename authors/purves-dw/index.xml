@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Purves DW | Neil Dalchau</title>
+    <link>/authors/purves-dw/</link>
+      <atom:link href="/authors/purves-dw/index.xml" rel="self" type="application/rss+xml" />
+    <description>Purves DW</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 08 Oct 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hud036e253d667841def3d4af41fe46192_1097_512x512_fill_lanczos_center_2.png</url>
+      <title>Purves DW</title>
+      <link>/authors/purves-dw/</link>
+    </image>
+    
+    <item>
+      <title>Is &#39;peak N&#39; key to understanding the timing of flowering in annual plants?</title>
+      <link>/publication/2014-new-phyt-guilbaud/</link>
+      <pubDate>Wed, 08 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/2014-new-phyt-guilbaud/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Haseloff J | Neil Dalchau</title>
+    <link>/authors/haseloff-j/</link>
+      <atom:link href="/authors/haseloff-j/index.xml" rel="self" type="application/rss+xml" />
+    <description>Haseloff J</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 23 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hud036e253d667841def3d4af41fe46192_1097_512x512_fill_lanczos_center_2.png</url>
+      <title>Haseloff J</title>
+      <link>/authors/haseloff-j/</link>
+    </image>
+    
+    <item>
+      <title>Decentralizing Cell-Free RNA Sensing With the Use of Low-Cost Cell Extracts</title>
+      <link>/publication/2021-frontiers-arce/</link>
+      <pubDate>Mon, 23 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/2021-frontiers-arce/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interpretation of morphogen gradients by a synthetic bistable circuit</title>
+      <link>/publication/2020-nat-comms-grant/</link>
+      <pubDate>Tue, 11 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020-nat-comms-grant/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Orthogonal intercellular signaling for programmed spatial behavior</title>
+      <link>/publication/2016-msb-grant/</link>
+      <pubDate>Tue, 26 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/2016-msb-grant/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Characterization of intrinsic properties of promoters</title>
+      <link>/publication/2015-acs-sb-rudge/</link>
+      <pubDate>Mon, 05 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/2015-acs-sb-rudge/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A computational method for automated characterization of genetic components</title>
+      <link>/publication/2014-acs-sb-yordanov/</link>
+      <pubDate>Thu, 20 Feb 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/2014-acs-sb-yordanov/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

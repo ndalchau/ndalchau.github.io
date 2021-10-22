@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Webb AAR | Neil Dalchau</title>
+    <link>/authors/webb-aar/</link>
+      <atom:link href="/authors/webb-aar/index.xml" rel="self" type="application/rss+xml" />
+    <description>Webb AAR</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 04 Jul 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hud036e253d667841def3d4af41fe46192_1097_512x512_fill_lanczos_center_2.png</url>
+      <title>Webb AAR</title>
+      <link>/authors/webb-aar/</link>
+    </image>
+    
+    <item>
+      <title>Understanding and predicting biological networks using linear system identification</title>
+      <link>/publication/2014-book-cariganano/</link>
+      <pubDate>Fri, 04 Jul 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/2014-book-cariganano/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The circadian clock has transient plasticity of period and is required for timing of nocturnal processes in Arabidopsis</title>
+      <link>/publication/2013-new-phyt-dodd/</link>
+      <pubDate>Tue, 17 Sep 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/2013-new-phyt-dodd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The circadian oscillator gene GIGANTEA mediates a long-term response of the Arabidopsis thaliana circadian clock to sucrose</title>
+      <link>/publication/2011-pnas-dalchau/</link>
+      <pubDate>Tue, 22 Mar 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/2011-pnas-dalchau/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ticking over. Circadian systems across the kingdoms of life</title>
+      <link>/publication/2011-biochemist-dalchau/</link>
+      <pubDate>Tue, 01 Feb 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/2011-biochemist-dalchau/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Correct biological timing in Arabidopsis requires multiple light-signaling pathways</title>
+      <link>/publication/2010-pnas-dalchau/</link>
+      <pubDate>Tue, 20 Jul 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/2010-pnas-dalchau/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Arabidopsis circadian clock incorporates a cADPR-based feedback loop</title>
+      <link>/publication/2007-science-dodd/</link>
+      <pubDate>Fri, 14 Dec 2007 00:00:00 +0000</pubDate>
+      <guid>/publication/2007-science-dodd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modulation of environmental responses of plants by circadian clocks</title>
+      <link>/publication/2007-pce-hotta/</link>
+      <pubDate>Thu, 01 Mar 2007 00:00:00 +0000</pubDate>
+      <guid>/publication/2007-pce-hotta/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

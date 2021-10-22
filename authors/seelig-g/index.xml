@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Seelig G | Neil Dalchau</title>
+    <link>/authors/seelig-g/</link>
+      <atom:link href="/authors/seelig-g/index.xml" rel="self" type="application/rss+xml" />
+    <description>Seelig G</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 24 Jul 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hud036e253d667841def3d4af41fe46192_1097_512x512_fill_lanczos_center_2.png</url>
+      <title>Seelig G</title>
+      <link>/authors/seelig-g/</link>
+    </image>
+    
+    <item>
+      <title>A spatially localized architecture for fast and modular DNA computing</title>
+      <link>/publication/2017-nat-nano-chatterjee/</link>
+      <pubDate>Mon, 24 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/2017-nat-nano-chatterjee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computational design of reaction-diffusion patterns using DNA-based chemical reaction networks</title>
+      <link>/publication/2014-dna-dalchau/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/2014-dna-dalchau/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Programmable chemical controllers made from DNA</title>
+      <link>/publication/2013-nat-nano-chen/</link>
+      <pubDate>Mon, 23 Sep 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/2013-nat-nano-chen/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

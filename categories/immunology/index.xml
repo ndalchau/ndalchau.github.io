@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Immunology | Neil Dalchau</title>
+    <link>/categories/immunology/</link>
+      <atom:link href="/categories/immunology/index.xml" rel="self" type="application/rss+xml" />
+    <description>Immunology</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 29 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hud036e253d667841def3d4af41fe46192_1097_512x512_fill_lanczos_center_2.png</url>
+      <title>Immunology</title>
+      <link>/categories/immunology/</link>
+    </image>
+    
+    <item>
+      <title>A theory for how the antigen presentation profile influences the timing of T-cell detection</title>
+      <link>/publication/2018-biorxiv-carignano/</link>
+      <pubDate>Thu, 29 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/2018-biorxiv-carignano/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A mechanistic model for predicting cell surface presentation of competing peptides by MHC class I molecules</title>
+      <link>/publication/2018-frontiers-boulanger/</link>
+      <pubDate>Thu, 05 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/2018-frontiers-boulanger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Host genotype and time dependent antigen presentation of viral peptides: predictions from theory</title>
+      <link>/publication/2017-sci-rep-eccleston/</link>
+      <pubDate>Mon, 30 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/2017-sci-rep-eccleston/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The role of multiscale protein dynamics in antigen presentation and T lymphocyte recognition</title>
+      <link>/publication/2017-frontiers-eccleston/</link>
+      <pubDate>Mon, 10 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/2017-frontiers-eccleston/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Selector function of MHC I molecules is determined by protein plasticity</title>
+      <link>/publication/2015-sci-rep-bailey/</link>
+      <pubDate>Tue, 20 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/2015-sci-rep-bailey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A peptide filtering relation quantifies MHC class I peptide optimization</title>
+      <link>/publication/2011-plos-cb-dalchau/</link>
+      <pubDate>Thu, 13 Oct 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/2011-plos-cb-dalchau/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The cell biology of major histocompatibility complex class I assembly: towards a molecular understanding</title>
+      <link>/publication/2010-tissue-van-hateren/</link>
+      <pubDate>Wed, 01 Sep 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/2010-tissue-van-hateren/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Immunology</title>
+      <link>/project/immunology/</link>
+      <pubDate>Mon, 01 Jun 2009 00:00:00 +0000</pubDate>
+      <guid>/project/immunology/</guid>
+      <description>&lt;p&gt;Immunodominance lies at the heart of the immune system’s ability to distinguish self from non-self. Understanding and possibly controlling the mechanisms that govern immunodominance will have profound consequences for the fight against several classes of diseases, including viral infections and cancer. We have been attempting to understand the computation performed by the immune system that gives rise to immunodominance, using techniques from computer science, applied mathematics and Bayesian statistics.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

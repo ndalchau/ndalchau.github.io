@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Neil Dalchau</title>
+    <link>/project/</link>
+      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 30 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hud036e253d667841def3d4af41fe46192_1097_512x512_fill_lanczos_center_2.png</url>
+      <title>Projects</title>
+      <link>/project/</link>
+    </image>
+    
+    <item>
+      <title>Variational inference for ODE models</title>
+      <link>/project/vihds/</link>
+      <pubDate>Fri, 30 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>/project/vihds/</guid>
+      <description>&lt;p&gt;We introduce a flexible, scalable Bayesian inference framework for nonlinear dynamical systems characterised by distinct and hierarchical variability at the individual, group, and population levels. Our model class is a generalisation of nonlinear mixed-effects (NLME) dynamical systems, the statistical workhorse for many experimental sciences. We cast parameter inference as stochastic optimisation of an end-to-end differentiable, block-conditional variational autoencoder. We specify the dynamics of the data-generating process as an ordinary differential equation (ODE) such that both the ODE and its solver are fully differentiable. This model class is highly flexible: the ODE right-hand sides can be a mixture of user-prescribed or &amp;ldquo;white-box&amp;rdquo; sub-components and neural network or &amp;ldquo;black-box&amp;rdquo; sub-components. Using stochastic optimisation, our amortised inference algorithm could seamlessly scale up to massive data collection pipelines (common in labs with robotic automation). Finally, our framework supports interpretability with respect to the underlying dynamics, as well as predictive generalisation to unseen combinations of group components (also called &amp;ldquo;zero-shot&amp;rdquo; learning). We empirically validate our method by predicting the dynamic behaviour of bacteria that were genetically engineered to function as biosensors.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DNA Computing</title>
+      <link>/project/dna/</link>
+      <pubDate>Sat, 01 Jun 2013 00:00:00 +0000</pubDate>
+      <guid>/project/dna/</guid>
+      <description>&lt;p&gt;Molecular devices made of nucleic acids show great potential for applications ranging from bio-sensing to intelligent nanomedicine. They allow computation to be performed at the molecular scale, while also interfacing directly with the molecular components of living systems. They form structures that are stable inside cells, and their interactions can be precisely controlled by modifying their nucleotide sequences. However, designing correct and robust nucleic acid devices is a major challenge, due to high system complexity and the potential for unwanted interference between molecules in the system. To help address these challenges we have developed the DNA Strand Displacement (DSD) tool, a programming language for designing and simulating computational devices made of DNA. The language uses DNA strand displacement as the main computational mechanism, which allows devices to be designed solely in terms of nucleic acids. DSD is a first step towards the development of design and analysis tools for DNA strand displacement, and complements the emergence of novel implementation strategies for DNA computing.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Chemical Reaction Networks</title>
+      <link>/project/crn/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/project/crn/</guid>
+      <description>&lt;p&gt;Chemical Reaction Networks Engine (CRN-Engine) is an open source repository that enables programming and analysis of (bio)chemical systems.&lt;/p&gt;
+&lt;p&gt;The implementation for several domain-specific programming languages (DSLs) are included, and have been published previously in web tools and the scientific literature:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://classicdsd.azurewebsites.net&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Visual DSD&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://classicgec.azurewebsites.net&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Visual GEC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://visualcrn.azurewebsites.net&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Visual CRN&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The languages compile to &lt;em&gt;chemical reaction networks&lt;/em&gt;, which is a mathematical object that defines parameterised chemical systems. Several analysis methods are provided, which can be applied to all CRN-compatible languages:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Stochastic simulation (Gillespie&amp;rsquo;s Direct Method)&lt;/li&gt;
+&lt;li&gt;Moment closure techniques (Approximate simulation of stochastic dynamics)&lt;/li&gt;
+&lt;li&gt;Integration of the chemical master equation&lt;/li&gt;
+&lt;li&gt;Satisfiability analysis for stable systems, using the 
+&lt;a href=&#34;https://github.com/Z3Prover/z3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Z3 theorem prover&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Parameter inference from observation data, using Markov chain Monte Carlo (MCMC).&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Synthetic Biology</title>
+      <link>/project/synbio/</link>
+      <pubDate>Tue, 01 May 2012 00:00:00 +0000</pubDate>
+      <guid>/project/synbio/</guid>
+      <description>&lt;p&gt;Synthetic biology aims at producing novel biological systems to carry out some desired and well-defined functions. An ultimate dream is to design these systems at a high level of abstraction using engineering-based tools and programming languages, press a button, and have the design translated to DNA sequences that can be synthesised and put to work in living cells. We introduce such a programming language, which allows logical interactions between potentially undetermined proteins and genes to be expressed in a modular manner. Programs can be translated by a compiler into sequences of biological parts, a process which relies on logic programming and prototype databases containing known biological parts and protein interactions. Programs can also be translated to reactions, allowing simulations to be carried out. The language is a first step towards the automatic translation of high-level behavioural designs to low-level DNA code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Immunology</title>
+      <link>/project/immunology/</link>
+      <pubDate>Mon, 01 Jun 2009 00:00:00 +0000</pubDate>
+      <guid>/project/immunology/</guid>
+      <description>&lt;p&gt;Immunodominance lies at the heart of the immune system’s ability to distinguish self from non-self. Understanding and possibly controlling the mechanisms that govern immunodominance will have profound consequences for the fight against several classes of diseases, including viral infections and cancer. We have been attempting to understand the computation performed by the immune system that gives rise to immunodominance, using techniques from computer science, applied mathematics and Bayesian statistics.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Plant Biology</title>
+      <link>/project/plants/</link>
+      <pubDate>Thu, 01 Sep 2005 00:00:00 +0000</pubDate>
+      <guid>/project/plants/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

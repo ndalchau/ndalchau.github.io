@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>test | Neil Dalchau</title>
+    <link>/tags/test/</link>
+      <atom:link href="/tags/test/index.xml" rel="self" type="application/rss+xml" />
+    <description>test</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jun 2009 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hud036e253d667841def3d4af41fe46192_1097_512x512_fill_lanczos_center_2.png</url>
+      <title>test</title>
+      <link>/tags/test/</link>
+    </image>
+    
+    <item>
+      <title>Immunology</title>
+      <link>/project/immunology/</link>
+      <pubDate>Mon, 01 Jun 2009 00:00:00 +0000</pubDate>
+      <guid>/project/immunology/</guid>
+      <description>&lt;p&gt;Immunodominance lies at the heart of the immune system’s ability to distinguish self from non-self. Understanding and possibly controlling the mechanisms that govern immunodominance will have profound consequences for the fight against several classes of diseases, including viral infections and cancer. We have been attempting to understand the computation performed by the immune system that gives rise to immunodominance, using techniques from computer science, applied mathematics and Bayesian statistics.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

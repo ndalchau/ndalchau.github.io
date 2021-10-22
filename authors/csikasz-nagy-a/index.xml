@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Csikász-Nagy A | Neil Dalchau</title>
+    <link>/authors/csikasz-nagy-a/</link>
+      <atom:link href="/authors/csikasz-nagy-a/index.xml" rel="self" type="application/rss+xml" />
+    <description>Csikász-Nagy A</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 11 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hud036e253d667841def3d4af41fe46192_1097_512x512_fill_lanczos_center_2.png</url>
+      <title>Csikász-Nagy A</title>
+      <link>/authors/csikasz-nagy-a/</link>
+    </image>
+    
+    <item>
+      <title>Parameter Inference with Bifurcation Diagrams</title>
+      <link>/publication/2021-neurips-szep/</link>
+      <pubDate>Fri, 11 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/2021-neurips-szep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interpretation of morphogen gradients by a synthetic bistable circuit</title>
+      <link>/publication/2020-nat-comms-grant/</link>
+      <pubDate>Tue, 11 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020-nat-comms-grant/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computing with biological switches and clocks</title>
+      <link>/publication/2018-nat-comp-dalchau/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/2018-nat-comp-dalchau/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient switches in biology and computer science</title>
+      <link>/publication/2017-plos-cb-cardelli/</link>
+      <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/2017-plos-cb-cardelli/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Noise reduction in complex biological switches</title>
+      <link>/publication/2016-sci-rep-cardelli/</link>
+      <pubDate>Mon, 08 Feb 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/2016-sci-rep-cardelli/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What makes a biological clock efficient?</title>
+      <link>/publication/2014-cardelli-fest-csikasz-nagy/</link>
+      <pubDate>Mon, 08 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/2014-cardelli-fest-csikasz-nagy/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

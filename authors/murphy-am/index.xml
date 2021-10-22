@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Murphy AM | Neil Dalchau</title>
+    <link>/authors/murphy-am/</link>
+      <atom:link href="/authors/murphy-am/index.xml" rel="self" type="application/rss+xml" />
+    <description>Murphy AM</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 03 Jun 2010 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hud036e253d667841def3d4af41fe46192_1097_512x512_fill_lanczos_center_2.png</url>
+      <title>Murphy AM</title>
+      <link>/authors/murphy-am/</link>
+    </image>
+    
+    <item>
+      <title>Disruption of two defensive signaling pathways by a viral RNA silencing suppressor</title>
+      <link>/publication/2010-mpmi-lewsey/</link>
+      <pubDate>Thu, 03 Jun 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/2010-mpmi-lewsey/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

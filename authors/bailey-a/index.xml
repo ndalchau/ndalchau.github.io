@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bailey A | Neil Dalchau</title>
+    <link>/authors/bailey-a/</link>
+      <atom:link href="/authors/bailey-a/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bailey A</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 20 Oct 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hud036e253d667841def3d4af41fe46192_1097_512x512_fill_lanczos_center_2.png</url>
+      <title>Bailey A</title>
+      <link>/authors/bailey-a/</link>
+    </image>
+    
+    <item>
+      <title>Selector function of MHC I molecules is determined by protein plasticity</title>
+      <link>/publication/2015-sci-rep-bailey/</link>
+      <pubDate>Tue, 20 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/2015-sci-rep-bailey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The cell biology of major histocompatibility complex class I assembly: towards a molecular understanding</title>
+      <link>/publication/2010-tissue-van-hateren/</link>
+      <pubDate>Wed, 01 Sep 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/2010-tissue-van-hateren/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

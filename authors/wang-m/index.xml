@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wang M | Neil Dalchau</title>
+    <link>/authors/wang-m/</link>
+      <atom:link href="/authors/wang-m/index.xml" rel="self" type="application/rss+xml" />
+    <description>Wang M</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 19 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hud036e253d667841def3d4af41fe46192_1097_512x512_fill_lanczos_center_2.png</url>
+      <title>Wang M</title>
+      <link>/authors/wang-m/</link>
+    </image>
+    
+    <item>
+      <title>A Deep Learning Model for Predicting NGS Sequencing Depth from DNA Sequence</title>
+      <link>/publication/2021-nat-comms-zhang/</link>
+      <pubDate>Mon, 19 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/2021-nat-comms-zhang/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

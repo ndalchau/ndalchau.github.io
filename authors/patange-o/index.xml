@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Patange O | Neil Dalchau</title>
+    <link>/authors/patange-o/</link>
+      <atom:link href="/authors/patange-o/index.xml" rel="self" type="application/rss+xml" />
+    <description>Patange O</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 11 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hud036e253d667841def3d4af41fe46192_1097_512x512_fill_lanczos_center_2.png</url>
+      <title>Patange O</title>
+      <link>/authors/patange-o/</link>
+    </image>
+    
+    <item>
+      <title>Interpretation of morphogen gradients by a synthetic bistable circuit</title>
+      <link>/publication/2020-nat-comms-grant/</link>
+      <pubDate>Tue, 11 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020-nat-comms-grant/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Orthogonal intercellular signaling for programmed spatial behavior</title>
+      <link>/publication/2016-msb-grant/</link>
+      <pubDate>Tue, 26 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/2016-msb-grant/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

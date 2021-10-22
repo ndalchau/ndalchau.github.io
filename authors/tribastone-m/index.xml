@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tribastone M | Neil Dalchau</title>
+    <link>/authors/tribastone-m/</link>
+      <atom:link href="/authors/tribastone-m/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tribastone M</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 08 Feb 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hud036e253d667841def3d4af41fe46192_1097_512x512_fill_lanczos_center_2.png</url>
+      <title>Tribastone M</title>
+      <link>/authors/tribastone-m/</link>
+    </image>
+    
+    <item>
+      <title>Noise reduction in complex biological switches</title>
+      <link>/publication/2016-sci-rep-cardelli/</link>
+      <pubDate>Mon, 08 Feb 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/2016-sci-rep-cardelli/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

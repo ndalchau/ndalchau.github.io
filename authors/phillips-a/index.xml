@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Phillips A | Neil Dalchau</title>
+    <link>/authors/phillips-a/</link>
+      <atom:link href="/authors/phillips-a/index.xml" rel="self" type="application/rss+xml" />
+    <description>Phillips A</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 19 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hud036e253d667841def3d4af41fe46192_1097_512x512_fill_lanczos_center_2.png</url>
+      <title>Phillips A</title>
+      <link>/authors/phillips-a/</link>
+    </image>
+    
+    <item>
+      <title>A Deep Learning Model for Predicting NGS Sequencing Depth from DNA Sequence</title>
+      <link>/publication/2021-nat-comms-zhang/</link>
+      <pubDate>Mon, 19 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/2021-nat-comms-zhang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interpretation of morphogen gradients by a synthetic bistable circuit</title>
+      <link>/publication/2020-nat-comms-grant/</link>
+      <pubDate>Tue, 11 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020-nat-comms-grant/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stochastic pulsing of gene expression enables the generation of spatial patterns in Bacillus subtilis biofilms</title>
+      <link>/publication/2020-nat-comms-nadezhdin/</link>
+      <pubDate>Wed, 19 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020-nat-comms-nadezhdin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fast enumeration of non-isomorphic chemical reaction networks</title>
+      <link>/publication/2019-cmsb-spaccasassi/</link>
+      <pubDate>Tue, 17 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019-cmsb-spaccasassi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scalable dynamic characterization of synthetic gene circuits</title>
+      <link>/publication/2019-biorxiv-dalchau/</link>
+      <pubDate>Thu, 15 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019-biorxiv-dalchau/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Amortised Bayesian Inference for Hierarchical and Nonlinear Dynamical Systems</title>
+      <link>/publication/2019-icml-roeder/</link>
+      <pubDate>Sun, 09 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019-icml-roeder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DNA-based communication in populations of synthetic protocells</title>
+      <link>/publication/2019-nat-nano-joesaar/</link>
+      <pubDate>Wed, 03 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019-nat-nano-joesaar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synthesizing and tuning stochastic chemical reaction networks with specified behaviours</title>
+      <link>/publication/2018-interface-murphy/</link>
+      <pubDate>Wed, 15 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/2018-interface-murphy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A mechanistic model for predicting cell surface presentation of competing peptides by MHC class I molecules</title>
+      <link>/publication/2018-frontiers-boulanger/</link>
+      <pubDate>Thu, 05 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/2018-frontiers-boulanger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computing with biological switches and clocks</title>
+      <link>/publication/2018-nat-comp-dalchau/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/2018-nat-comp-dalchau/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting DNA hybridization kinetics from sequence</title>
+      <link>/publication/2017-nat-chem-zhang/</link>
+      <pubDate>Mon, 06 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/2017-nat-chem-zhang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A spatially localized architecture for fast and modular DNA computing</title>
+      <link>/publication/2017-nat-nano-chatterjee/</link>
+      <pubDate>Mon, 24 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/2017-nat-nano-chatterjee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Orthogonal intercellular signaling for programmed spatial behavior</title>
+      <link>/publication/2016-msb-grant/</link>
+      <pubDate>Tue, 26 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/2016-msb-grant/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Selector function of MHC I molecules is determined by protein plasticity</title>
+      <link>/publication/2015-sci-rep-bailey/</link>
+      <pubDate>Tue, 20 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/2015-sci-rep-bailey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Characterization of intrinsic properties of promoters</title>
+      <link>/publication/2015-acs-sb-rudge/</link>
+      <pubDate>Mon, 05 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/2015-acs-sb-rudge/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Probabilistic analysis of localized DNA hybridization circuits</title>
+      <link>/publication/2015-acs-sb-dalchau/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/2015-acs-sb-dalchau/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computational design of reaction-diffusion patterns using DNA-based chemical reaction networks</title>
+      <link>/publication/2014-dna-dalchau/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/2014-dna-dalchau/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A computational method for automated characterization of genetic components</title>
+      <link>/publication/2014-acs-sb-yordanov/</link>
+      <pubDate>Thu, 20 Feb 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/2014-acs-sb-yordanov/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Programmable chemical controllers made from DNA</title>
+      <link>/publication/2013-nat-nano-chen/</link>
+      <pubDate>Mon, 23 Sep 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/2013-nat-nano-chen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards the rational design of synthetic cells with prescribed population dynamics</title>
+      <link>/publication/2012-interface-dalchau/</link>
+      <pubDate>Fri, 08 Jun 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/2012-interface-dalchau/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A peptide filtering relation quantifies MHC class I peptide optimization</title>
+      <link>/publication/2011-plos-cb-dalchau/</link>
+      <pubDate>Thu, 13 Oct 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/2011-plos-cb-dalchau/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The cell biology of major histocompatibility complex class I assembly: towards a molecular understanding</title>
+      <link>/publication/2010-tissue-van-hateren/</link>
+      <pubDate>Wed, 01 Sep 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/2010-tissue-van-hateren/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

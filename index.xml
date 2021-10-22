@@ -1,0 +1,515 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Neil Dalchau</title>
+    <link>/</link>
+      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <description>Neil Dalchau</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 23 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hud036e253d667841def3d4af41fe46192_1097_512x512_fill_lanczos_center_2.png</url>
+      <title>Neil Dalchau</title>
+      <link>/</link>
+    </image>
+    
+    <item>
+      <title>Decentralizing Cell-Free RNA Sensing With the Use of Low-Cost Cell Extracts</title>
+      <link>/publication/2021-frontiers-arce/</link>
+      <pubDate>Mon, 23 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/2021-frontiers-arce/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Deep Learning Model for Predicting NGS Sequencing Depth from DNA Sequence</title>
+      <link>/publication/2021-nat-comms-zhang/</link>
+      <pubDate>Mon, 19 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/2021-nat-comms-zhang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parameter Inference with Bifurcation Diagrams</title>
+      <link>/publication/2021-neurips-szep/</link>
+      <pubDate>Fri, 11 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/2021-neurips-szep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conditional sanctioning in a legume-rhizobium mutualism</title>
+      <link>/publication/2021-pnas-westhoek/</link>
+      <pubDate>Tue, 11 May 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/2021-pnas-westhoek/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A systematic approach to inserting split inteins for Boolean logic gate engineering and basal activity reduction</title>
+      <link>/publication/2021-nat-comms-ho/</link>
+      <pubDate>Tue, 13 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/2021-nat-comms-ho/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Turing patterning in stratified domains</title>
+      <link>/publication/2020-bmb-krause/</link>
+      <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020-bmb-krause/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interpretation of morphogen gradients by a synthetic bistable circuit</title>
+      <link>/publication/2020-nat-comms-grant/</link>
+      <pubDate>Tue, 11 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020-nat-comms-grant/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stochastic pulsing of gene expression enables the generation of spatial patterns in Bacillus subtilis biofilms</title>
+      <link>/publication/2020-nat-comms-nadezhdin/</link>
+      <pubDate>Wed, 19 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020-nat-comms-nadezhdin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fast enumeration of non-isomorphic chemical reaction networks</title>
+      <link>/publication/2019-cmsb-spaccasassi/</link>
+      <pubDate>Tue, 17 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019-cmsb-spaccasassi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scalable dynamic characterization of synthetic gene circuits</title>
+      <link>/publication/2019-biorxiv-dalchau/</link>
+      <pubDate>Thu, 15 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019-biorxiv-dalchau/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Amortised Bayesian Inference for Hierarchical and Nonlinear Dynamical Systems</title>
+      <link>/publication/2019-icml-roeder/</link>
+      <pubDate>Sun, 09 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019-icml-roeder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DNA-based communication in populations of synthetic protocells</title>
+      <link>/publication/2019-nat-nano-joesaar/</link>
+      <pubDate>Wed, 03 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019-nat-nano-joesaar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modelling ordinary differential equations using a variational auto encoder</title>
+      <link>/publication/2019-patent-roeder/</link>
+      <pubDate>Wed, 23 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019-patent-roeder/</guid>
+      <description>&lt;h3 id=&#34;patent-details&#34;&gt;Patent Details&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Patent number&lt;/strong&gt;: 11030275&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Type&lt;/strong&gt;: Grant&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Filed&lt;/strong&gt;: Jan 23, 2019&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Date of Patent&lt;/strong&gt;: Jun 8, 2021&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Patent Publication Number&lt;/strong&gt;: 20200233920&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Assignee&lt;/strong&gt;: Microsoft Technology Licensing, LLC (Redmond, WA)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Inventors&lt;/strong&gt;: Edward Meeds (Cambridge), Geoffrey Roeder (Princeton, NJ), Neil Dalchau (Cambridge)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Primary Examiner&lt;/strong&gt;: Chuong D Ngo&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Application Number&lt;/strong&gt;: 16/255,778&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A theory for how the antigen presentation profile influences the timing of T-cell detection</title>
+      <link>/publication/2018-biorxiv-carignano/</link>
+      <pubDate>Thu, 29 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/2018-biorxiv-carignano/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scaling up genetic circuit design for cellular computing: advances and prospects</title>
+      <link>/publication/2018-nat-comp-xiang/</link>
+      <pubDate>Fri, 05 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/2018-nat-comp-xiang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synthesizing and tuning stochastic chemical reaction networks with specified behaviours</title>
+      <link>/publication/2018-interface-murphy/</link>
+      <pubDate>Wed, 15 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/2018-interface-murphy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A mechanistic model for predicting cell surface presentation of competing peptides by MHC class I molecules</title>
+      <link>/publication/2018-frontiers-boulanger/</link>
+      <pubDate>Thu, 05 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/2018-frontiers-boulanger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computing with biological switches and clocks</title>
+      <link>/publication/2018-nat-comp-dalchau/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/2018-nat-comp-dalchau/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Variational inference for ODE models</title>
+      <link>/project/vihds/</link>
+      <pubDate>Fri, 30 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>/project/vihds/</guid>
+      <description>&lt;p&gt;We introduce a flexible, scalable Bayesian inference framework for nonlinear dynamical systems characterised by distinct and hierarchical variability at the individual, group, and population levels. Our model class is a generalisation of nonlinear mixed-effects (NLME) dynamical systems, the statistical workhorse for many experimental sciences. We cast parameter inference as stochastic optimisation of an end-to-end differentiable, block-conditional variational autoencoder. We specify the dynamics of the data-generating process as an ordinary differential equation (ODE) such that both the ODE and its solver are fully differentiable. This model class is highly flexible: the ODE right-hand sides can be a mixture of user-prescribed or &amp;ldquo;white-box&amp;rdquo; sub-components and neural network or &amp;ldquo;black-box&amp;rdquo; sub-components. Using stochastic optimisation, our amortised inference algorithm could seamlessly scale up to massive data collection pipelines (common in labs with robotic automation). Finally, our framework supports interpretability with respect to the underlying dynamics, as well as predictive generalisation to unseen combinations of group components (also called &amp;ldquo;zero-shot&amp;rdquo; learning). We empirically validate our method by predicting the dynamic behaviour of bacteria that were genetically engineered to function as biosensors.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Beyond activator-inhibitor networks: the generalised Turing mechanism</title>
+      <link>/publication/2018-arxiv-smith/</link>
+      <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/2018-arxiv-smith/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Model reduction enables Turing instability analysis of large reaction–diffusion models</title>
+      <link>/publication/2018-interface-smith/</link>
+      <pubDate>Wed, 14 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/2018-interface-smith/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting DNA hybridization kinetics from sequence</title>
+      <link>/publication/2017-nat-chem-zhang/</link>
+      <pubDate>Mon, 06 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/2017-nat-chem-zhang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Host genotype and time dependent antigen presentation of viral peptides: predictions from theory</title>
+      <link>/publication/2017-sci-rep-eccleston/</link>
+      <pubDate>Mon, 30 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/2017-sci-rep-eccleston/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A spatially localized architecture for fast and modular DNA computing</title>
+      <link>/publication/2017-nat-nano-chatterjee/</link>
+      <pubDate>Mon, 24 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/2017-nat-nano-chatterjee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The role of multiscale protein dynamics in antigen presentation and T lymphocyte recognition</title>
+      <link>/publication/2017-frontiers-eccleston/</link>
+      <pubDate>Mon, 10 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/2017-frontiers-eccleston/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient switches in biology and computer science</title>
+      <link>/publication/2017-plos-cb-cardelli/</link>
+      <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/2017-plos-cb-cardelli/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Noise reduction in complex biological switches</title>
+      <link>/publication/2016-sci-rep-cardelli/</link>
+      <pubDate>Mon, 08 Feb 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/2016-sci-rep-cardelli/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Orthogonal intercellular signaling for programmed spatial behavior</title>
+      <link>/publication/2016-msb-grant/</link>
+      <pubDate>Tue, 26 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/2016-msb-grant/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Selector function of MHC I molecules is determined by protein plasticity</title>
+      <link>/publication/2015-sci-rep-bailey/</link>
+      <pubDate>Tue, 20 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/2015-sci-rep-bailey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Characterization of intrinsic properties of promoters</title>
+      <link>/publication/2015-acs-sb-rudge/</link>
+      <pubDate>Mon, 05 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/2015-acs-sb-rudge/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synthesizing and tuning chemical reaction networks with specified behaviours</title>
+      <link>/publication/2015-dna-dalchau/</link>
+      <pubDate>Tue, 21 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/2015-dna-dalchau/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Probabilistic analysis of localized DNA hybridization circuits</title>
+      <link>/publication/2015-acs-sb-dalchau/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/2015-acs-sb-dalchau/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Is &#39;peak N&#39; key to understanding the timing of flowering in annual plants?</title>
+      <link>/publication/2014-new-phyt-guilbaud/</link>
+      <pubDate>Wed, 08 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/2014-new-phyt-guilbaud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What makes a biological clock efficient?</title>
+      <link>/publication/2014-cardelli-fest-csikasz-nagy/</link>
+      <pubDate>Mon, 08 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/2014-cardelli-fest-csikasz-nagy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computational design of reaction-diffusion patterns using DNA-based chemical reaction networks</title>
+      <link>/publication/2014-dna-dalchau/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/2014-dna-dalchau/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Understanding and predicting biological networks using linear system identification</title>
+      <link>/publication/2014-book-cariganano/</link>
+      <pubDate>Fri, 04 Jul 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/2014-book-cariganano/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ten simple rules for effective computational research</title>
+      <link>/publication/2014-plos-cb-osborne/</link>
+      <pubDate>Thu, 27 Mar 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/2014-plos-cb-osborne/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A computational method for automated characterization of genetic components</title>
+      <link>/publication/2014-acs-sb-yordanov/</link>
+      <pubDate>Thu, 20 Feb 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/2014-acs-sb-yordanov/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Programmable chemical controllers made from DNA</title>
+      <link>/publication/2013-nat-nano-chen/</link>
+      <pubDate>Mon, 23 Sep 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/2013-nat-nano-chen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The circadian clock has transient plasticity of period and is required for timing of nocturnal processes in Arabidopsis</title>
+      <link>/publication/2013-new-phyt-dodd/</link>
+      <pubDate>Tue, 17 Sep 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/2013-new-phyt-dodd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DNA Computing</title>
+      <link>/project/dna/</link>
+      <pubDate>Sat, 01 Jun 2013 00:00:00 +0000</pubDate>
+      <guid>/project/dna/</guid>
+      <description>&lt;p&gt;Molecular devices made of nucleic acids show great potential for applications ranging from bio-sensing to intelligent nanomedicine. They allow computation to be performed at the molecular scale, while also interfacing directly with the molecular components of living systems. They form structures that are stable inside cells, and their interactions can be precisely controlled by modifying their nucleotide sequences. However, designing correct and robust nucleic acid devices is a major challenge, due to high system complexity and the potential for unwanted interference between molecules in the system. To help address these challenges we have developed the DNA Strand Displacement (DSD) tool, a programming language for designing and simulating computational devices made of DNA. The language uses DNA strand displacement as the main computational mechanism, which allows devices to be designed solely in terms of nucleic acids. DSD is a first step towards the development of design and analysis tools for DNA strand displacement, and complements the emergence of novel implementation strategies for DNA computing.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Chemical Reaction Networks</title>
+      <link>/project/crn/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/project/crn/</guid>
+      <description>&lt;p&gt;Chemical Reaction Networks Engine (CRN-Engine) is an open source repository that enables programming and analysis of (bio)chemical systems.&lt;/p&gt;
+&lt;p&gt;The implementation for several domain-specific programming languages (DSLs) are included, and have been published previously in web tools and the scientific literature:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://classicdsd.azurewebsites.net&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Visual DSD&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://classicgec.azurewebsites.net&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Visual GEC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://visualcrn.azurewebsites.net&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Visual CRN&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The languages compile to &lt;em&gt;chemical reaction networks&lt;/em&gt;, which is a mathematical object that defines parameterised chemical systems. Several analysis methods are provided, which can be applied to all CRN-compatible languages:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Stochastic simulation (Gillespie&amp;rsquo;s Direct Method)&lt;/li&gt;
+&lt;li&gt;Moment closure techniques (Approximate simulation of stochastic dynamics)&lt;/li&gt;
+&lt;li&gt;Integration of the chemical master equation&lt;/li&gt;
+&lt;li&gt;Satisfiability analysis for stable systems, using the 
+&lt;a href=&#34;https://github.com/Z3Prover/z3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Z3 theorem prover&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Parameter inference from observation data, using Markov chain Monte Carlo (MCMC).&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Towards the rational design of synthetic cells with prescribed population dynamics</title>
+      <link>/publication/2012-interface-dalchau/</link>
+      <pubDate>Fri, 08 Jun 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/2012-interface-dalchau/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synthetic Biology</title>
+      <link>/project/synbio/</link>
+      <pubDate>Tue, 01 May 2012 00:00:00 +0000</pubDate>
+      <guid>/project/synbio/</guid>
+      <description>&lt;p&gt;Synthetic biology aims at producing novel biological systems to carry out some desired and well-defined functions. An ultimate dream is to design these systems at a high level of abstraction using engineering-based tools and programming languages, press a button, and have the design translated to DNA sequences that can be synthesised and put to work in living cells. We introduce such a programming language, which allows logical interactions between potentially undetermined proteins and genes to be expressed in a modular manner. Programs can be translated by a compiler into sequences of biological parts, a process which relies on logic programming and prototype databases containing known biological parts and protein interactions. Programs can also be translated to reactions, allowing simulations to be carried out. The language is a first step towards the automatic translation of high-level behavioural designs to low-level DNA code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Understanding biological timing using mechanistic and black-box models</title>
+      <link>/publication/2011-new-phyt-dalchau/</link>
+      <pubDate>Fri, 23 Dec 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/2011-new-phyt-dalchau/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A peptide filtering relation quantifies MHC class I peptide optimization</title>
+      <link>/publication/2011-plos-cb-dalchau/</link>
+      <pubDate>Thu, 13 Oct 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/2011-plos-cb-dalchau/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The circadian oscillator gene GIGANTEA mediates a long-term response of the Arabidopsis thaliana circadian clock to sucrose</title>
+      <link>/publication/2011-pnas-dalchau/</link>
+      <pubDate>Tue, 22 Mar 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/2011-pnas-dalchau/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ticking over. Circadian systems across the kingdoms of life</title>
+      <link>/publication/2011-biochemist-dalchau/</link>
+      <pubDate>Tue, 01 Feb 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/2011-biochemist-dalchau/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The cell biology of major histocompatibility complex class I assembly: towards a molecular understanding</title>
+      <link>/publication/2010-tissue-van-hateren/</link>
+      <pubDate>Wed, 01 Sep 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/2010-tissue-van-hateren/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Correct biological timing in Arabidopsis requires multiple light-signaling pathways</title>
+      <link>/publication/2010-pnas-dalchau/</link>
+      <pubDate>Tue, 20 Jul 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/2010-pnas-dalchau/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Disruption of two defensive signaling pathways by a viral RNA silencing suppressor</title>
+      <link>/publication/2010-mpmi-lewsey/</link>
+      <pubDate>Thu, 03 Jun 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/2010-mpmi-lewsey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Systems analyses of circadian networks</title>
+      <link>/publication/2009-biosystems-hubbard/</link>
+      <pubDate>Mon, 03 Aug 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/2009-biosystems-hubbard/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Immunology</title>
+      <link>/project/immunology/</link>
+      <pubDate>Mon, 01 Jun 2009 00:00:00 +0000</pubDate>
+      <guid>/project/immunology/</guid>
+      <description>&lt;p&gt;Immunodominance lies at the heart of the immune system’s ability to distinguish self from non-self. Understanding and possibly controlling the mechanisms that govern immunodominance will have profound consequences for the fight against several classes of diseases, including viral infections and cancer. We have been attempting to understand the computation performed by the immune system that gives rise to immunodominance, using techniques from computer science, applied mathematics and Bayesian statistics.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mathematical modelling of circadian signalling in Arabidopsis</title>
+      <link>/publication/2008-thesis-dalchau/</link>
+      <pubDate>Mon, 01 Dec 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/2008-thesis-dalchau/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Arabidopsis circadian clock incorporates a cADPR-based feedback loop</title>
+      <link>/publication/2007-science-dodd/</link>
+      <pubDate>Fri, 14 Dec 2007 00:00:00 +0000</pubDate>
+      <guid>/publication/2007-science-dodd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Circadian Rhythms in Stomata: Physiological and Molecular Aspects</title>
+      <link>/publication/2007-rhythms-hubbard/</link>
+      <pubDate>Fri, 01 Jun 2007 00:00:00 +0000</pubDate>
+      <guid>/publication/2007-rhythms-hubbard/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modulation of environmental responses of plants by circadian clocks</title>
+      <link>/publication/2007-pce-hotta/</link>
+      <pubDate>Thu, 01 Mar 2007 00:00:00 +0000</pubDate>
+      <guid>/publication/2007-pce-hotta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Plant Biology</title>
+      <link>/project/plants/</link>
+      <pubDate>Thu, 01 Sep 2005 00:00:00 +0000</pubDate>
+      <guid>/project/plants/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

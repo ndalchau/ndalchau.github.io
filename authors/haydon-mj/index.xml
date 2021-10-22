@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Haydon MJ | Neil Dalchau</title>
+    <link>/authors/haydon-mj/</link>
+      <atom:link href="/authors/haydon-mj/index.xml" rel="self" type="application/rss+xml" />
+    <description>Haydon MJ</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 22 Mar 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hud036e253d667841def3d4af41fe46192_1097_512x512_fill_lanczos_center_2.png</url>
+      <title>Haydon MJ</title>
+      <link>/authors/haydon-mj/</link>
+    </image>
+    
+    <item>
+      <title>The circadian oscillator gene GIGANTEA mediates a long-term response of the Arabidopsis thaliana circadian clock to sucrose</title>
+      <link>/publication/2011-pnas-dalchau/</link>
+      <pubDate>Tue, 22 Mar 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/2011-pnas-dalchau/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

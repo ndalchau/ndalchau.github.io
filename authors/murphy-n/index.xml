@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Murphy N | Neil Dalchau</title>
+    <link>/authors/murphy-n/</link>
+      <atom:link href="/authors/murphy-n/index.xml" rel="self" type="application/rss+xml" />
+    <description>Murphy N</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 19 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hud036e253d667841def3d4af41fe46192_1097_512x512_fill_lanczos_center_2.png</url>
+      <title>Murphy N</title>
+      <link>/authors/murphy-n/</link>
+    </image>
+    
+    <item>
+      <title>Stochastic pulsing of gene expression enables the generation of spatial patterns in Bacillus subtilis biofilms</title>
+      <link>/publication/2020-nat-comms-nadezhdin/</link>
+      <pubDate>Wed, 19 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020-nat-comms-nadezhdin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synthesizing and tuning stochastic chemical reaction networks with specified behaviours</title>
+      <link>/publication/2018-interface-murphy/</link>
+      <pubDate>Wed, 15 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/2018-interface-murphy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synthesizing and tuning chemical reaction networks with specified behaviours</title>
+      <link>/publication/2015-dna-dalchau/</link>
+      <pubDate>Tue, 21 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/2015-dna-dalchau/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

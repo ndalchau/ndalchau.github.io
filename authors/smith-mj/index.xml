@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Smith MJ | Neil Dalchau</title>
+    <link>/authors/smith-mj/</link>
+      <atom:link href="/authors/smith-mj/index.xml" rel="self" type="application/rss+xml" />
+    <description>Smith MJ</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 08 Jun 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hud036e253d667841def3d4af41fe46192_1097_512x512_fill_lanczos_center_2.png</url>
+      <title>Smith MJ</title>
+      <link>/authors/smith-mj/</link>
+    </image>
+    
+    <item>
+      <title>Towards the rational design of synthetic cells with prescribed population dynamics</title>
+      <link>/publication/2012-interface-dalchau/</link>
+      <pubDate>Fri, 08 Jun 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/2012-interface-dalchau/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

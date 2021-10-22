@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hotta CT | Neil Dalchau</title>
+    <link>/authors/hotta-ct/</link>
+      <atom:link href="/authors/hotta-ct/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hotta CT</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 20 Jul 2010 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hud036e253d667841def3d4af41fe46192_1097_512x512_fill_lanczos_center_2.png</url>
+      <title>Hotta CT</title>
+      <link>/authors/hotta-ct/</link>
+    </image>
+    
+    <item>
+      <title>Correct biological timing in Arabidopsis requires multiple light-signaling pathways</title>
+      <link>/publication/2010-pnas-dalchau/</link>
+      <pubDate>Tue, 20 Jul 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/2010-pnas-dalchau/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Arabidopsis circadian clock incorporates a cADPR-based feedback loop</title>
+      <link>/publication/2007-science-dodd/</link>
+      <pubDate>Fri, 14 Dec 2007 00:00:00 +0000</pubDate>
+      <guid>/publication/2007-science-dodd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Circadian Rhythms in Stomata: Physiological and Molecular Aspects</title>
+      <link>/publication/2007-rhythms-hubbard/</link>
+      <pubDate>Fri, 01 Jun 2007 00:00:00 +0000</pubDate>
+      <guid>/publication/2007-rhythms-hubbard/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modulation of environmental responses of plants by circadian clocks</title>
+      <link>/publication/2007-pce-hotta/</link>
+      <pubDate>Thu, 01 Mar 2007 00:00:00 +0000</pubDate>
+      <guid>/publication/2007-pce-hotta/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
