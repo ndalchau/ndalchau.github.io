@@ -1,0 +1,8 @@
+{{ $taxonomy := "categories" }}
+{{ if .Param $taxonomy }}
+<div class="article-categories">
+  {{ range $index, $value := (.GetTerms $taxonomy) }}
+  <a class="badge badge-light" href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+  {{ end }}
+</div>
+{{ end }}
