@@ -1,7 +1,7 @@
 ---
 title: "Modelling ordinary differential equations using a variational auto encoder"
 subtitle: ""
-summary: "Patent: "
+summary: "Patent: The present disclosure relates to the modelling of ordinary differential equations (ODEs) based on a machine learning algorithm in the form of a variational auto encoder (VAE). For instance, this may be used to predict a temporal profile of the cell density in a growing population of cells engineered to produce a desired product such as a protein."
 authors: 
 - Roeder G
 - Dalchau N

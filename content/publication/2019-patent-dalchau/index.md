@@ -1,7 +1,7 @@
 ---
 title: "Dynamic Characterization of Synthetic Genetic Circuits in Living Cells"
 subtitle: ""
-summary: "Patent: "
+summary: "Patent: The present invention relates to a method for determining one or more intrinsic properties of a DNA component from a plurality of measurements obtained over a time period from a cell culture, with each cell comprising the DNA component, wherein the DNA component is involved in transcription of one or more target signals, wherein the plurality of measurements comprises measurements relating to the density of the cell culture over the time period and measurements relating to the amount of the one or more target signals in the cell culture over the time period."
 authors: 
 - Dalchau N
 - Phillips A
