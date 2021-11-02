@@ -18,7 +18,7 @@ links:
 - icon: github
   icon_pack: fab
   name: crn-engine
-  url: https://github.com/BiologicalComputation/crn-engine
+  url: https://github.com/Biological-Computation/crn-engine
 
 url_code: ""
 url_pdf: ""

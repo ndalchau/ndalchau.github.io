@@ -16,7 +16,7 @@ links:
 - icon: github
   icon_pack: fab
   name: vi-hds
-  url: https://github.com/BiologicalComputation/vi-hds
+  url: https://github.com/Biological-Computation/vi-hds
 - icon: book
   icon_park: fab
   name: Patent

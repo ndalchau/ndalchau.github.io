@@ -16,7 +16,7 @@ links:
 - icon: github
   icon_pack: fab
   name: crn-engine
-  url: https://github.com/BiologicalComputation/crn-engine
+  url: https://github.com/Biological-Computation/crn-engine
 - icon: globe
   icon_pack: fas
   name: Visual DSD
