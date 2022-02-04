@@ -72,7 +72,7 @@ user_groups:
 - Visitors
 ---
 
-Hi! I'm Neil. I am the Chief Research Officer at Synteny Biotechnology. Until recently, I was a Principal Scientist and Research Manager at [Microsoft Research Cambridge](https://www.microsoft.com/en-us/research/lab/microsoft-research-cambridge/) and project lead for [Station B](http://aka.ms/stationb). 
+Hi! I'm Neil. I am the Chief Research Officer at Synteny. Until recently, I was a Principal Scientist and Research Manager at [Microsoft Research Cambridge](https://www.microsoft.com/en-us/research/lab/microsoft-research-cambridge/) and project lead for [Station B](http://aka.ms/stationb). 
 
 I am interested in how to use computational and mathematical techniques to understand and re-design biological systems. I use mathematical modelling to test hypotheses about system function, and work closely with experimental scientists to design experiments and use data to test and parameterise models. 
 
