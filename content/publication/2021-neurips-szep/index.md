@@ -12,7 +12,7 @@ tags: []
 categories: [Dynamical Systems, Synthetic Biology]
 date: 2021-06-11 00:00:00
 publishDate: 2021-06-11 00:00:00
-featured: false
+featured: true
 draft: false
 publication: 'Neural Information Processing Systems (NeurIPS)'
 publication_types: ["1"]
