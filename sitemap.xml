@@ -341,6 +341,12 @@
     <loc>/authors/hernansaiz-ballesteros-r/</loc>
     <lastmod>2018-06-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/authors/admin/</loc>
+    <lastmod>2018-03-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/aphillip/</loc>
+    <lastmod>2018-03-30T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/project/</loc>
     <lastmod>2018-03-30T00:00:00+00:00</lastmod>
   </url><url>
@@ -575,6 +581,9 @@
     <loc>/publication/2013-new-phyt-dodd/</loc>
     <lastmod>2013-09-17T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/authors/cgravill/</loc>
+    <lastmod>2013-06-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/project/dna/</loc>
     <lastmod>2013-06-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -730,8 +739,6 @@
   </url><url>
     <loc>/project/plants/</loc>
     <lastmod>2005-09-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/admin/</loc>
   </url><url>
     <loc>/talks/</loc>
   </url>

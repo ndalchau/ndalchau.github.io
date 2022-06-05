@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Neil Dalchau</title>
+    <link>/authors/cgravill/</link>
+      <atom:link href="/authors/cgravill/index.xml" rel="self" type="application/rss+xml" />
+    <description>Neil Dalchau</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_huad7c223e4d485e0afbd0b521af84bf55_11903_512x512_fill_lanczos_center_3.png</url>
+      <title>Neil Dalchau</title>
+      <link>/authors/cgravill/</link>
+    </image>
+    
+    <item>
+      <title>DNA Computing</title>
+      <link>/project/dna/</link>
+      <pubDate>Sat, 01 Jun 2013 00:00:00 +0000</pubDate>
+      <guid>/project/dna/</guid>
+      <description>&lt;p&gt;Molecular devices made of nucleic acids show great potential for applications ranging from bio-sensing to intelligent nanomedicine. They allow computation to be performed at the molecular scale, while also interfacing directly with the molecular components of living systems. They form structures that are stable inside cells, and their interactions can be precisely controlled by modifying their nucleotide sequences. However, designing correct and robust nucleic acid devices is a major challenge, due to high system complexity and the potential for unwanted interference between molecules in the system. To help address these challenges we have developed the DNA Strand Displacement (DSD) tool, a programming language for designing and simulating computational devices made of DNA. The language uses DNA strand displacement as the main computational mechanism, which allows devices to be designed solely in terms of nucleic acids. DSD is a first step towards the development of design and analysis tools for DNA strand displacement, and complements the emergence of novel implementation strategies for DNA computing.&lt;/p&gt;
+&lt;p&gt;My work on DNA computing was almost entirely done with Andrew Phillips, who led the DNA computing project at Microsoft Research. He hosts a project page 
+&lt;a href=&#34;https://ph1ll1ps.github.io/project/visualdsd/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;, which contains more information. Especially, links to several more articles on the work he led at MSR.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Chemical Reaction Networks</title>
+      <link>/project/crn/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/project/crn/</guid>
+      <description>&lt;p&gt;Chemical Reaction Networks Engine (CRN-Engine) is an open source repository that enables programming and analysis of (bio)chemical systems.&lt;/p&gt;
+&lt;p&gt;The implementation for several domain-specific programming languages (DSLs) are included, and have been published previously in web tools and the scientific literature:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://ph1ll1ps.github.io/visualdsd/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Visual DSD&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Visual GEC&lt;/li&gt;
+&lt;li&gt;Visual CRN&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The languages compile to &lt;em&gt;chemical reaction networks&lt;/em&gt;, which is a mathematical object that defines parameterised chemical systems. Several analysis methods are provided, which can be applied to all CRN-compatible languages:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Stochastic simulation (Gillespie&amp;rsquo;s Direct Method)&lt;/li&gt;
+&lt;li&gt;Moment closure techniques (Approximate simulation of stochastic dynamics)&lt;/li&gt;
+&lt;li&gt;Integration of the chemical master equation&lt;/li&gt;
+&lt;li&gt;Satisfiability analysis for stable systems, using the 
+&lt;a href=&#34;https://github.com/Z3Prover/z3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Z3 theorem prover&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Parameter inference from observation data, using Markov chain Monte Carlo (MCMC).&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

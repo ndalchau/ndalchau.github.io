@@ -178,11 +178,9 @@
 &lt;p&gt;The implementation for several domain-specific programming languages (DSLs) are included, and have been published previously in web tools and the scientific literature:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;a href=&#34;https://classicdsd.azurewebsites.net&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Visual DSD&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://classicgec.azurewebsites.net&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Visual GEC&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://visualcrn.azurewebsites.net&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Visual CRN&lt;/a&gt;&lt;/li&gt;
+&lt;a href=&#34;https://ph1ll1ps.github.io/visualdsd/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Visual DSD&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Visual GEC&lt;/li&gt;
+&lt;li&gt;Visual CRN&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;The languages compile to &lt;em&gt;chemical reaction networks&lt;/em&gt;, which is a mathematical object that defines parameterised chemical systems. Several analysis methods are provided, which can be applied to all CRN-compatible languages:&lt;/p&gt;
 &lt;ul&gt;

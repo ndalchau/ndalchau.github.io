@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects | Neil Dalchau</title>
-    <link>/project/</link>
-      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
-    <description>Projects</description>
+    <title>Neil Dalchau</title>
+    <link>/authors/aphillip/</link>
+      <atom:link href="/authors/aphillip/index.xml" rel="self" type="application/rss+xml" />
+    <description>Neil Dalchau</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 30 Mar 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_huad7c223e4d485e0afbd0b521af84bf55_11903_512x512_fill_lanczos_center_3.png</url>
-      <title>Projects</title>
-      <link>/project/</link>
+      <title>Neil Dalchau</title>
+      <link>/authors/aphillip/</link>
     </image>
     
     <item>
@@ -73,14 +73,6 @@
       <guid>/project/immunology/</guid>
       <description>&lt;p&gt;Immunodominance lies at the heart of the immune system’s ability to distinguish self from non-self. Understanding and possibly controlling the mechanisms that govern immunodominance will have profound consequences for the fight against several classes of diseases, including viral infections and cancer. We have been attempting to understand the computation performed by the immune system that gives rise to immunodominance, using techniques from computer science, applied mathematics and Bayesian statistics.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Plant Biology</title>
-      <link>/project/plants/</link>
-      <pubDate>Thu, 01 Sep 2005 00:00:00 +0000</pubDate>
-      <guid>/project/plants/</guid>
-      <description></description>
     </item>
     
   </channel>
