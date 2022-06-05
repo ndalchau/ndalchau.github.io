@@ -14,11 +14,11 @@ role: Chief Researcher Officer
 
 # Organizations/Affiliations
 organizations:
-- name: Synteny
+- name: Synteny Biotechnology
   #url: "https://www.microsoft.com/en-us/research/people/ndalchau/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Mathematical and computational biologist.
+bio: Mathematical and computational biologist
 
 interests:
 - Immunology
@@ -49,7 +49,7 @@ social:
   link: https://github.com/ndalchau
 - icon: linkedin
   icon_pack: fab
-  link: 'https://www.linkedin.com/in/neil-dalchau-499b616/'
+  link: https://www.linkedin.com/in/neil-dalchau-499b616/
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/ndalchau
@@ -67,9 +67,7 @@ email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
+user_groups: []
 ---
 
 Hi! I'm Neil. I am the Chief Research Officer at Synteny. Until recently, I was a Principal Scientist and Research Manager at [Microsoft Research Cambridge](https://www.microsoft.com/en-us/research/lab/microsoft-research-cambridge/) and project lead for [Station B](http://aka.ms/stationb). 
