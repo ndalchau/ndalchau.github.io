@@ -8,6 +8,11 @@ date: "2013-06-01T00:00:00Z"
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
+authors:
+- admin
+- aphillip
+- cgravill
+
 image:
   # caption: Photo by rawpixel on Unsplash
   focal_point: Smart

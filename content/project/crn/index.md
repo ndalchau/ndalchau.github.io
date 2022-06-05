@@ -7,6 +7,11 @@ categories:
 - Synthetic Biology
 date: "2013-01-01T00:00:00Z"
 
+authors:
+- admin
+- aphillip
+- cgravill
+
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
@@ -36,9 +41,9 @@ slides: ""
 Chemical Reaction Networks Engine (CRN-Engine) is an open source repository that enables programming and analysis of (bio)chemical systems. 
 
 The implementation for several domain-specific programming languages (DSLs) are included, and have been published previously in web tools and the scientific literature: 
-- [Visual DSD](https://classicdsd.azurewebsites.net)
-- [Visual GEC](https://classicgec.azurewebsites.net)
-- [Visual CRN](https://visualcrn.azurewebsites.net)
+- [Visual DSD](https://ph1ll1ps.github.io/visualdsd/index.html)
+- Visual GEC
+- Visual CRN
 
 The languages compile to *chemical reaction networks*, which is a mathematical object that defines parameterised chemical systems. Several analysis methods are provided, which can be applied to all CRN-compatible languages:
 - Stochastic simulation (Gillespie's Direct Method)

@@ -5,6 +5,10 @@ categories:
 - Bayesian Inference
 date: "2018-03-30T00:00:00Z"
 
+authors:
+- admin
+- aphillip
+
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 

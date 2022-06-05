@@ -7,6 +7,10 @@ categories:
 - Immunology
 date: "2009-06-01T00:00:00Z"
 
+authors:
+- admin
+- aphillip
+
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
