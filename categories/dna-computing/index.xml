@@ -5,12 +5,20 @@
     <link>/categories/dna-computing/</link>
       <atom:link href="/categories/dna-computing/index.xml" rel="self" type="application/rss+xml" />
     <description>DNA Computing</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 19 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 27 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_huad7c223e4d485e0afbd0b521af84bf55_11903_512x512_fill_lanczos_center_3.png</url>
       <title>DNA Computing</title>
       <link>/categories/dna-computing/</link>
     </image>
+    
+    <item>
+      <title>Programming Molecular Systems To Emulate a Learning Spiking Neuron</title>
+      <link>/publication/2022-acs-sb-fil/</link>
+      <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/2022-acs-sb-fil/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A Deep Learning Model for Predicting NGS Sequencing Depth from DNA Sequence</title>
@@ -98,6 +106,8 @@
       <pubDate>Sat, 01 Jun 2013 00:00:00 +0000</pubDate>
       <guid>/project/dna/</guid>
       <description>&lt;p&gt;Molecular devices made of nucleic acids show great potential for applications ranging from bio-sensing to intelligent nanomedicine. They allow computation to be performed at the molecular scale, while also interfacing directly with the molecular components of living systems. They form structures that are stable inside cells, and their interactions can be precisely controlled by modifying their nucleotide sequences. However, designing correct and robust nucleic acid devices is a major challenge, due to high system complexity and the potential for unwanted interference between molecules in the system. To help address these challenges we have developed the DNA Strand Displacement (DSD) tool, a programming language for designing and simulating computational devices made of DNA. The language uses DNA strand displacement as the main computational mechanism, which allows devices to be designed solely in terms of nucleic acids. DSD is a first step towards the development of design and analysis tools for DNA strand displacement, and complements the emergence of novel implementation strategies for DNA computing.&lt;/p&gt;
+&lt;p&gt;My work on DNA computing was almost entirely done with Andrew Phillips, who led the DNA computing project at Microsoft Research. He hosts a project page 
+&lt;a href=&#34;https://ph1ll1ps.github.io/project/visualdsd/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;, which contains more information. Especially, links to several more articles on the work he led at MSR.&lt;/p&gt;
 </description>
     </item>
     

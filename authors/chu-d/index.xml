@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chu D | Neil Dalchau</title>
+    <link>/authors/chu-d/</link>
+      <atom:link href="/authors/chu-d/index.xml" rel="self" type="application/rss+xml" />
+    <description>Chu D</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 27 May 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_huad7c223e4d485e0afbd0b521af84bf55_11903_512x512_fill_lanczos_center_3.png</url>
+      <title>Chu D</title>
+      <link>/authors/chu-d/</link>
+    </image>
+    
+    <item>
+      <title>Programming Molecular Systems To Emulate a Learning Spiking Neuron</title>
+      <link>/publication/2022-acs-sb-fil/</link>
+      <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/2022-acs-sb-fil/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
