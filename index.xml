@@ -5,12 +5,20 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Neil Dalchau</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 27 May 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 31 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_huad7c223e4d485e0afbd0b521af84bf55_11903_512x512_fill_lanczos_center_3.png</url>
       <title>Neil Dalchau</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>Tapasin-mediated editing of the MHC I immunopeptidome is epitope specific and dependent on peptide off-rate, abundance, and level of tapasin expression</title>
+      <link>/publication/2023-tapasin-boulanger/</link>
+      <pubDate>Mon, 31 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/2023-tapasin-boulanger/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Programming Molecular Systems To Emulate a Learning Spiking Neuron</title>

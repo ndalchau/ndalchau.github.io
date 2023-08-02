@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Douglas LR | Neil Dalchau</title>
+    <link>/authors/douglas-lr/</link>
+      <atom:link href="/authors/douglas-lr/index.xml" rel="self" type="application/rss+xml" />
+    <description>Douglas LR</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 31 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_huad7c223e4d485e0afbd0b521af84bf55_11903_512x512_fill_lanczos_center_3.png</url>
+      <title>Douglas LR</title>
+      <link>/authors/douglas-lr/</link>
+    </image>
+    
+    <item>
+      <title>Tapasin-mediated editing of the MHC I immunopeptidome is epitope specific and dependent on peptide off-rate, abundance, and level of tapasin expression</title>
+      <link>/publication/2023-tapasin-boulanger/</link>
+      <pubDate>Mon, 31 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/2023-tapasin-boulanger/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
